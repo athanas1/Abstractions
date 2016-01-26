@@ -7,7 +7,7 @@ package abstractions;
 
 /**
  *
- * @author Alex
+ * @author Alex Thanas
  */
 public class Chrome extends WebBrowser {
     
